@@ -3,4 +3,4 @@
 
 # Equipe
 ## Jefté de Sousa Rufino
-## Antônio Carlos Silva  
+## Antonio Carlos Silva  
